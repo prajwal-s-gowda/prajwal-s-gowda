@@ -4,7 +4,7 @@
 
 ## About Me
 - Learning Python and Object-Oriented Programming
-- Exploring Robotics and Artificial Intelligence
+- Exploring Robotics and Artificial Intelligence ,Machine Learning 
 - Improving my coding and problem-solving skills
 
 ## My Goals
